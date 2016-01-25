@@ -17,7 +17,7 @@
  *
  */
 definition(
-    name: "Dual Relay Adaptermodified",
+    name: "Fibaro FGS-222 App",
     namespace: "PukkaHQ",
     author: "Paul Crookes",
     description: "Associates Dual Relay Switch Modules with one or two standard SmartThings 'switch' devices for compatibility with standard control and automation techniques",
