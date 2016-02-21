@@ -28,7 +28,7 @@ definition(
 
 preferences {
   section("ZWN-RSM2 Module:") {
-    input "rsm", "capability.relayswitch", title: "Which RSM2 Module?", multiple: false, required: true
+    input "rsm", "capability.relaySwitch", title: "Which RSM2 Module?", multiple: false, required: true
     input "switch1", "capability.switch", title: "First Switch?", multiple: false, required: true
     input "switch2", "capability.switch", title: "Second Switch?", multiple: false, required: false
   }
